@@ -1,5 +1,5 @@
-# Json_Server_M3
-<h1>Trabalho M3 - Indivudual: Restaurante<h1>
+ 
+<h1>Json_Server_M3 - Indivudual: Restaurante<h1>
 
 ## Sobre o projeto
 <a>Objetivo: Criar uma pagina usando Node e JSON para interoperabilidade, apos isso subir no sistema, criar rotas com os produtos da loja. O tipo de loja escolhida foi restaurante. Contendo entre as opções: Refeições, bebidas e sobremesas.

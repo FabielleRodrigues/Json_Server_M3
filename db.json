@@ -1,12 +1,11 @@
 {
-   "Refeição Completa":[
-       {"nome": "Feijoada", "id": 1, "Valor": "R$ 79,90"},
-       {"nome": "Baião de Dois", "id": 2, "Valor": "R$ 89,90"},
-       {"nome": "Churrasco", "id": 3, "Valor": "R$ 119,90"},
-       {"nome": "Caldo Verde", "id": 4, "Valor": "R$ 49,90"},
-       {"nome": "Posta de salmão", "id": 4, "Valor": "R$ 99,90"}
+    "Pratos":[
+        {"nome": "Feijoada", "id": 1, "Valor": "R$ 79,90"},
+        {"nome": "Churrasco", "id": 2, "Valor": "R$ 119,90"},
+        {"nome": "Baiao de 2", "id": 3, "Valor": "R$ 69,90"},
+        {"nome": "Postas de Peixe", "id": 4, "Valor": "R$ 89,90"}
+    ],
 
-   ],
    "Bebidas":[
        {"nome": "Suco", "id": 1, "Valor": "R$ 19,90"},
        {"nome": "Refrigerante", "id": 2, "Valor": "R$ 10,90"},
